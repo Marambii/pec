@@ -59,7 +59,7 @@ export default function Header({ isScrolled }: HeaderProps) {
         {/* Right Call To Action Hook Button */}
         <div className="hidden md:block">
           <Link 
-            to="/contactus"
+            to="https://calendly.com/marambijm2015/30min"
             className="bg-[#1F4E79] hover:bg-[#153654] text-white px-5 py-2.5 rounded-full text-xs font-bold tracking-wider transition-all duration-300 transform hover:-translate-y-0.5 shadow-xs"
           >
             BOOK A SESSION
